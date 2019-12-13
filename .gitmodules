@@ -1,0 +1,6 @@
+[submodule "python-qinfer"]
+	path = python-qinfer
+	url = git@github.com:QInfer/python-qinfer.git
+[submodule "qinfer-examples"]
+	path = qinfer-examples
+	url = git@github.com:QInfer/qinfer-examples.git
